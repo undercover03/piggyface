@@ -1,0 +1,116 @@
+
+.face{
+    height: 300px;
+    width: 300px;
+    background: pink;
+    border-radius: 50%;
+    margin: auto;
+    border:3px solid black;
+    position: absolute;
+    margin-left: 545px;
+}
+
+
+.eyes{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 70px;
+}
+
+
+.leye{
+    height: 50px;
+    width: 50px;
+    background: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.reye{
+    height: 50px;
+    width: 50px;
+    background: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.mouth{
+    height: 60px;
+    width: 120px;
+    background: white;
+    margin: auto;
+    margin-top: 20%;
+    border: 3px solid black;
+    border-radius: 50px;
+    background-color: orangered;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+
+}
+.insiderleye{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 50%;
+
+}
+.insiderreye{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 50%;
+
+
+}
+.n1{
+    height: 30px;
+    width: 35px;
+    background-color: black;
+    border-radius: 50%;
+}
+.n2{
+    height: 30px;
+    width: 35px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.ear{
+    display: flex;
+    justify-content:space-between;
+    position: relative;
+    width: 300px;
+    margin-left: 550px;
+    top: 90px;
+    margin-right: 650px;
+}
+.ear1{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid black;
+    background-color: pink;
+}
+.ear2{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid black;
+    background-color: pink;
+    
+}
+.pos{
+    position: fixed;
+}
+
+
+
